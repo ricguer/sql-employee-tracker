@@ -1,7 +1,7 @@
                                                                 /* ================== INITIALIZATION ================== */
-DROP DATABASE IF EXISTS employeeTracker_db;                     /* Drop database if database exists                     */
-CREATE DATABASE employeeTracker_db;                             /* Create database to track employees                   */
-USE employeeTracker_db;                                         /* Use employee tracking database moving forward        */
+DROP DATABASE IF EXISTS employeetracker_db;                     /* Drop database if database exists                     */
+CREATE DATABASE employeetracker_db;                             /* Create database to track employees                   */
+USE employeetracker_db;                                         /* Use employee tracking database moving forward        */
 
 
                                                                 /* ============== CREATE REQUIRED TABLES ============== */
