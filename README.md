@@ -14,3 +14,5 @@ The application presents menus that allow the user to view and modify data found
 ## License
 MIT
 
+## Video Walkthrough
+https://drive.google.com/file/d/1UJ0vkRWP4KPomC8Z_LRz1c4YakzWIMUG/view
